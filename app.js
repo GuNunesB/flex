@@ -1,6 +1,6 @@
 /**
  * APP PWA - Etanol x Gasolina
- * @author Professor José de Assis
+ * @author Gustavo Nunes Bispo
  * @version 2.0
  */
 
